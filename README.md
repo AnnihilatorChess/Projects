@@ -1,4 +1,5 @@
 # Projects
  Image Classification project and kaggle dataset visualization <br>
-These are two projects I did for my studies. The first one is a Image Classification Project that where 20 items can be classified (tree, pen, shoes, etc.) <br>
-The second one was a group project where we created some visualizations from a kaggle dataset.
+These are two projects I did for my studies. <br>
+The first one is a Image Classification Project that where 20 items can be classified (tree, pen, shoes, etc.). This was part of a competition for the students for the best accuracy on a test set by our tutors and I placed 3rd of 271 students. <br>
+The second one is a group project where we created visualizations from a kaggle dataset.
