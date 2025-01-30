@@ -1,2 +1,2 @@
 # Projects
- Image Classification model and kaggle dataset visualization
+ Image Classification project and kaggle dataset visualization
